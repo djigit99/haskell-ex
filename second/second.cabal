@@ -1,0 +1,62 @@
+cabal-version: 1.12
+
+-- This file has been generated from package.yaml by hpack version 0.33.0.
+--
+-- see: https://github.com/sol/hpack
+--
+-- hash: 94ba31d729511e01f2e8bbd979f0cd69ef27df0cfe5b30aa00dbde7213121f9f
+
+name:           second
+version:        0.1.0.0
+description:    Please see the README on GitHub at <https://github.com/Github username here/second#readme>
+homepage:       https://github.com/Github username here/second#readme
+bug-reports:    https://github.com/Github username here/second/issues
+author:         Author name here
+maintainer:     Author email here
+copyright:      2019 Author name here
+license:        BSD3
+license-file:   LICENSE
+build-type:     Simple
+extra-source-files:
+    README.md
+    ChangeLog.md
+
+source-repository head
+  type: git
+  location: https://github.com/Github username here/second
+
+library
+  exposed-modules:
+      Lib
+  other-modules:
+      Paths_second
+  hs-source-dirs:
+      src
+  build-depends:
+      base >=4.7 && <5
+  default-language: Haskell2010
+
+executable second-exe
+  main-is: Main.hs
+  other-modules:
+      Paths_second
+  hs-source-dirs:
+      app
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , second
+  default-language: Haskell2010
+
+test-suite second-test
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  other-modules:
+      Paths_second
+  hs-source-dirs:
+      test
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  build-depends:
+      base >=4.7 && <5
+    , second
+  default-language: Haskell2010
