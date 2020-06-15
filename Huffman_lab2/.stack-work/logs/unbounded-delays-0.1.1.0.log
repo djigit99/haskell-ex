@@ -1,0 +1,7 @@
+Configuring unbounded-delays-0.1.1.0...
+Preprocessing library for unbounded-delays-0.1.1.0..
+Building library for unbounded-delays-0.1.1.0..
+[1 of 2] Compiling Control.Concurrent.Thread.Delay
+[2 of 2] Compiling Control.Concurrent.Timeout
+Installing library in C:\sr\snapshots\cabf7dcf\lib\x86_64-windows-ghc-8.6.5\unbounded-delays-0.1.1.0-7ulHERuvlgAKyhaTH4vNZc
+Registering library for unbounded-delays-0.1.1.0..

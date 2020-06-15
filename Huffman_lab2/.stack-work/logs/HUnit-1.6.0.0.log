@@ -1,0 +1,11 @@
+Configuring HUnit-1.6.0.0...
+Preprocessing library for HUnit-1.6.0.0..
+Building library for HUnit-1.6.0.0..
+[1 of 6] Compiling Paths_HUnit
+[2 of 6] Compiling Test.HUnit.Lang
+[3 of 6] Compiling Test.HUnit.Base
+[4 of 6] Compiling Test.HUnit.Terminal
+[5 of 6] Compiling Test.HUnit.Text
+[6 of 6] Compiling Test.HUnit
+Installing library in C:\sr\snapshots\cabf7dcf\lib\x86_64-windows-ghc-8.6.5\HUnit-1.6.0.0-C6N9GX1vz2Z4nPL5JbE3ac
+Registering library for HUnit-1.6.0.0..

@@ -1,0 +1,7 @@
+Configuring ansi-wl-pprint-0.6.9...
+Preprocessing library for ansi-wl-pprint-0.6.9..
+Building library for ansi-wl-pprint-0.6.9..
+[1 of 2] Compiling Text.PrettyPrint.ANSI.Leijen.Internal
+[2 of 2] Compiling Text.PrettyPrint.ANSI.Leijen
+Installing library in C:\sr\snapshots\cabf7dcf\lib\x86_64-windows-ghc-8.6.5\ansi-wl-pprint-0.6.9-LGu2unDYn3O3fSDyeRHwha
+Registering library for ansi-wl-pprint-0.6.9..

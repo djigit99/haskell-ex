@@ -1,0 +1,27 @@
+Configuring tasty-1.2.3...
+Preprocessing library for tasty-1.2.3..
+Building library for tasty-1.2.3..
+[ 1 of 22] Compiling Test.Tasty.Options
+[ 2 of 22] Compiling Test.Tasty.Parallel
+[ 3 of 22] Compiling Test.Tasty.Patterns.Expr
+[ 4 of 22] Compiling Test.Tasty.Patterns.Types
+[ 5 of 22] Compiling Test.Tasty.Patterns.Parser
+[ 6 of 22] Compiling Test.Tasty.Patterns.Eval
+[ 7 of 22] Compiling Test.Tasty.Patterns
+[ 8 of 22] Compiling Test.Tasty.Options.Core
+[ 9 of 22] Compiling Test.Tasty.Core
+[10 of 22] Compiling Test.Tasty.Providers
+[11 of 22] Compiling Test.Tasty.Runners.Reducers
+[12 of 22] Compiling Test.Tasty.Runners.Utils
+[13 of 22] Compiling Test.Tasty.Run
+[14 of 22] Compiling Test.Tasty.Ingredients
+[15 of 22] Compiling Test.Tasty.Options.Env
+[16 of 22] Compiling Test.Tasty.Ingredients.ListTests
+[17 of 22] Compiling Test.Tasty.Ingredients.IncludingOptions
+[18 of 22] Compiling Test.Tasty.Ingredients.ConsoleReporter
+[19 of 22] Compiling Test.Tasty.Ingredients.Basic
+[20 of 22] Compiling Test.Tasty.CmdLine
+[21 of 22] Compiling Test.Tasty.Runners
+[22 of 22] Compiling Test.Tasty
+Installing library in C:\sr\snapshots\cabf7dcf\lib\x86_64-windows-ghc-8.6.5\tasty-1.2.3-H5uyW56kdhEGM7uDBbOvu6
+Registering library for tasty-1.2.3..

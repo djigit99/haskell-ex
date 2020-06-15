@@ -1,0 +1,15 @@
+Configuring ansi-terminal-0.9.1...
+Preprocessing library for ansi-terminal-0.9.1..
+Building library for ansi-terminal-0.9.1..
+[ 1 of 10] Compiling System.Console.ANSI.Types
+[ 2 of 10] Compiling System.Console.ANSI.Codes
+[ 3 of 10] Compiling System.Console.ANSI.Unix
+[ 4 of 10] Compiling System.Console.ANSI.Windows.Emulator.Codes
+[ 5 of 10] Compiling System.Win32.Compat
+[ 6 of 10] Compiling System.Console.ANSI.Windows.Foreign
+[ 7 of 10] Compiling System.Console.ANSI.Windows.Detect
+[ 8 of 10] Compiling System.Console.ANSI.Windows.Emulator
+[ 9 of 10] Compiling System.Console.ANSI.Windows
+[10 of 10] Compiling System.Console.ANSI
+Installing library in C:\sr\snapshots\cabf7dcf\lib\x86_64-windows-ghc-8.6.5\ansi-terminal-0.9.1-244h43a06oNINY4mGm60Dq
+Registering library for ansi-terminal-0.9.1..
