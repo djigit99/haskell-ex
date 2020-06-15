@@ -2,6 +2,8 @@ module Main where
 
 import Lib
 
+-- 3.	Реалізувати алгоритм сортування insert sort
+
 main :: IO ()
 
 insert :: Ord a => a -> [a] -> [a]
